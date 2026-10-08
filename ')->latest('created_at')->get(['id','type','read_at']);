@@ -1,0 +1,19 @@
+[90m= [39m[34;4mIlluminate\Support\Collection[39;24m {#9343
+    [34mall[39m: [
+      {#9339
+        +"[1mid[22m": [32m"[39m[32m5cd97548-4ac3-404d-9697-63ccbde16d40[39m[32m"[39m,
+        +"[1mtype[22m": [32m"[39m[32mApp[39m\\[32mNotifications[39m\\[32mTaskCompletedNotification[39m[32m"[39m,
+        +"[1mread_at[22m": [36mnull[39m,
+      },
+      {#9341
+        +"[1mid[22m": [32m"[39m[32mb4c982b0-a153-42e1-8fb7-4f737bac58e6[39m[32m"[39m,
+        +"[1mtype[22m": [32m"[39m[32mApp[39m\\[32mNotifications[39m\\[32mTaskCompletedNotification[39m[32m"[39m,
+        +"[1mread_at[22m": [36mnull[39m,
+      },
+      {#9338
+        +"[1mid[22m": [32m"[39m[32m30a68948-9d71-45d5-b7ef-1b59fd096730[39m[32m"[39m,
+        +"[1mtype[22m": [32m"[39m[32mIlluminate[39m\\[32mNotifications[39m\\[32mNotification@anonymous[39m[32m"[39m,
+        +"[1mread_at[22m": [36mnull[39m,
+      },
+    ],
+  }
